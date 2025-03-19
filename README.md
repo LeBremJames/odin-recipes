@@ -1,1 +1,2 @@
 # odin-recipes
+A simple project testing my basic knowledge of HTML. The project was making a couple of html pages, in this instance a couple of recipes. A fairly simple thing to do, with more work than expected. The actual html went fairly quickly. The thing that took the longest was enterin all of the text needed to fill up the web page. Otherwise, it went really well.
